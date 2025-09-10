@@ -32,9 +32,9 @@ Si la cadena contiene algún nucleótido inválido, se lanza una excepción.
 
 ## Diagrama de Flujo
 
-![Diagrama Fujo](/docs/Diagrama.png)
+![Diagrama Fujo](docs/Diagrama.png)
 
 
 ## Cobertura de Tests
 
-![Cobertura De Tests](/docs/Cobertura.png)
+![Cobertura De Tests](docs/Cobertura.png)
