@@ -38,3 +38,8 @@ Si la cadena contiene algún nucleótido inválido, se lanza una excepción.
 ## Cobertura de Tests
 
 ![Cobertura De Tests](docs/Cobertura.png)
+
+
+## Autor
+
+Alejandro Cuesta
